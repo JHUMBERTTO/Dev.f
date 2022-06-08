@@ -1,0 +1,152 @@
+body{
+    background-color: white;
+    width: 3750px;
+    height: 2000px;
+    display: inline-block;
+}
+
+
+.flag_top_half{
+    width: 3750px;
+    height: 800px;
+    display: flex;
+}
+
+
+
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    width: 3350px;
+    height: 800px;
+}
+.square_start_left{
+    background-color: brown;
+    width: 800px;
+    height: 800px;
+}
+
+.midle_square{
+    background-color: royalblue;
+    height: 800px;
+    width: 300px;
+}
+
+.square_end_right{
+    background-color: brown;
+    width: 2000px;
+    height: 800px;
+}
+
+
+
+.center{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    width: 3350px;
+    height: 100px;
+}
+.start_square{
+    background-color: white;
+    width: 800px;
+    height: 100px;
+}
+.center_square{
+    background-color: royalblue;
+    width: 300px;
+    height: 100px;
+
+}
+.end_square{
+    background-color: white;
+    width: 2000px;
+    height: 100px;
+}
+
+
+
+
+
+
+.horizontal{
+    background-color: royalblue;
+    width: 3340px;
+    height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.flag_bottom_half{
+    width: 3750px;
+    height: 800px;
+    display: flex;
+}
+
+
+
+
+
+.bottom{
+    display:flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    width: 3350px;
+    height: 800px;
+}
+.square_bottom_start_left{
+    background-color: brown;
+    width: 800px;
+    height: 800px;
+}
+
+.midle_bottom_square{
+    background-color: royalblue;
+    height: 800px;
+    width: 300px;
+}
+
+.square_bottom_end_right{
+    background-color: brown;
+    width: 2000px;
+    height: 800px;
+}
+
+
+
+
+.center_bottom{
+    display:flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    width: 3350px;
+    height: 100px;
+}
+.start_bottom_square{
+    background-color: white;
+    width: 800px;
+    height: 100px;
+}
+.center_bottom_square{
+    background-color: royalblue;
+    width: 300px;
+    height: 100px;
+
+}
+.end_bottom_square{
+    background-color: white;
+    width: 2000px;
+    height: 100px;
+}
