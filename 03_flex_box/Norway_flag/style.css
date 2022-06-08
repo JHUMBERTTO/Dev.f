@@ -1,0 +1,163 @@
+body{
+    background-color: #e1dad2;
+    width: 1800px;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.back_ground{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    display: inline-block;
+    width: 1100px;
+    height: 580px;
+}
+
+
+.flag_top_half{
+    width: 1100px;
+    height: 200px;
+    display: flex;
+}
+
+
+
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    width: 1100px;
+    height: 200px;
+}
+.square_start_left{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+}
+
+.midle_square{
+    background-color: royalblue;
+    height: 200px;
+    width: 100px;
+}
+
+.square_end_right{
+    background-color: brown;
+    width: 700px;
+    height: 200px;
+}
+
+
+
+.center{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    width: 1100px;
+    height: 40px;
+}
+.start_square{
+    background-color: white;
+    width: 200px;
+    height: 40px;
+}
+.center_square{
+    background-color: royalblue;
+    width: 100px;
+    height: 40px;
+
+}
+.end_square{
+    background-color: white;
+    width: 700px;
+    height: 40px;
+}
+
+
+
+
+
+
+.horizontal{
+    background-color: royalblue;
+    width: 1100px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.flag_bottom_half{
+    width: 1100px;
+    height: 200px;
+    display: flex;
+}
+
+
+
+
+
+.bottom{
+    display:flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    width: 1100px;
+    height: 200px;
+}
+.square_bottom_start_left{
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+}
+
+.midle_bottom_square{
+    background-color: royalblue;
+    height: 200px;
+    width: 100px;
+}
+
+.square_bottom_end_right{
+    background-color: brown;
+    width: 700px;
+    height: 200px;
+}
+
+
+
+
+.center_bottom{
+    display:flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    width: 1100px;
+    height: 40px;
+}
+.start_bottom_square{
+    background-color: white;
+    width: 200px;
+    height: 40px;
+}
+.center_bottom_square{
+    background-color: royalblue;
+    width: 100px;
+    height: 40px;
+
+}
+.end_bottom_square{
+    background-color: white;
+    width: 700px;
+    height: 40px;
+}
