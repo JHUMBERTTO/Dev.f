@@ -1,0 +1,111 @@
+.Content{
+    height: 949px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}
+
+.Background_detail{
+    height: 965px;
+    width: 1015px;
+    margin: 0;
+}
+
+.Detail{
+    height: 947px;
+    width: 1015px;
+    margin: 16px 0px 32px 0px;
+    display: flex;
+    border-radius: 35px;
+    box-shadow: rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
+    
+}
+
+.Division_detail{
+    height: 947px;
+    width: 508px;
+}
+
+.Content_right{
+    height: 901px;
+    width: 444px;
+    padding: 0px 32px;
+    
+}
+
+.Background_top{
+    height: 99px;
+    width: 444px;
+}
+
+.Background_center{
+    height: 763px;
+    width: 444px;
+}
+
+.Background_bottom{
+    height: 85px;
+    width: 444px;
+}
+
+.Content_background_top{
+    height: 60px;
+    width: 444px;
+    padding: 32px 0px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Icons_left{
+    height: 60px;
+    width: 144px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Icons_right{
+    height: 60px;
+    width: 236px;
+    display: flex;
+    align-items: center;
+}
+
+.icons_L{
+    height: 48px;
+    width: 48px;
+}
+
+.background_icons{
+    height: 48px;
+    width: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons_R{
+    height: 48px;
+    width: 111px;
+    padding: 0px 16px;
+}
+
+.icons_R_2{
+    height: 48px;
+    width: 93px;
+}
+
+.Text_perfil{
+
+}
+
+.Text_guardar{
+    background-color: #E60023;
+    border-radius: 5000px;
+    color: white;
+    width: 60px;
+    height: 25px;
+    padding: 12px 16px;
+    font-weight: 700px;
+}

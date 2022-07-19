@@ -1,0 +1,14 @@
+.parent{
+    border: 2px solid chartreuse;
+    height: 300px;
+    width: 500px;
+    margin-left: 200px;
+}
+
+.children{
+    height: 60%;
+    width: 60%;
+    border: solid cyan;
+    position: relative;
+    top: 200px;
+}
